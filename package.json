@@ -1,0 +1,25 @@
+{
+  "name": "api-repo",
+  "version": "1.0.0",
+  "description": "Teste de API para guardar dados em repositório de documentos",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jntvsc/api-repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jntvsc/api-repo/issues"
+  },
+  "homepage": "https://github.com/jntvsc/api-repo#readme",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
