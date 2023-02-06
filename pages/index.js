@@ -4,9 +4,9 @@ import Link from "next/link";
 function Home() {
     return (
         <div>
-            <h2>Home - Navegar</h2>
+            <h2>Home - Navegar 1</h2>
             <Contador />
-
+            <br/>
             <Link legacyBehavior href="/sobre">
                 <a>Página Sobre</a>
             </Link>
