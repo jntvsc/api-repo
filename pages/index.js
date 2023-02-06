@@ -5,6 +5,10 @@ function Home() {
         <div>
             <h2>Home - Navegar</h2>
             <Contador />
+
+            <Link href="/sobre">
+                <a>Página Sobre</a>
+            </Link>
         </div>
     )
 }
