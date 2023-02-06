@@ -7,7 +7,7 @@ function Home() {
             <h2>Home - Navegar</h2>
             <Contador />
 
-            <Link href="/sobre">
+            <Link legacyBehavior href="/sobre">
                 <a>Página Sobre</a>
             </Link>
         </div>
